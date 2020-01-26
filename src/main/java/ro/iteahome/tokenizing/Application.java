@@ -10,8 +10,6 @@ Do tokenize a such string and create the Student object with the data found ther
 
 import ro.iteahome.tokenizing.model.Student;
 
-import java.util.StringTokenizer;
-
 public class Application {
     public static void main(String[] args){
 
